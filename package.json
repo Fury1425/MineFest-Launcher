@@ -1,8 +1,8 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Minefest-Launcher",
+    "preductname": "Minefest Launcher",
     "version": "2.0.3",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher Mincraft pour le serveur MineFest",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Inc.",
