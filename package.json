@@ -1,5 +1,5 @@
 {
-    "name": "Minefest-Launcher",
+    "name": "MineFest-Launcher",
     "preductname": "Minefest Launcher",
     "version": "2.0.3",
     "description": "Launcher Mincraft pour le serveur MineFest",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Fury1425/MineFest-Launcher.git"
     }
 }
